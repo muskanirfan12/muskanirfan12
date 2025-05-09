@@ -37,6 +37,12 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,git,github,python,nodejs,mongodb,linux,docker,aws,vercel" />
 </p>
 
+---
+
+## ⚡ **GitHub Stats**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohsinraza23&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 
 ---
 
