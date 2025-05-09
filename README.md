@@ -12,8 +12,7 @@
 
 <!-- 🔥 Profile Image with a Cyberpunk Glow Effect -->
 <p align="center">
-  <img src="![its me](https://github.com/user-attachments/assets/24cdd212-9557-438c-8d96-28df053790d0)
-" 
+  <img src="its me.jpg" 
   width="240" height="240" 
   style="border-radius:50%; border:4px solid #ff4500; box-shadow: 0px 0px 20px #ff4500;" />
 </p>
