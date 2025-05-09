@@ -37,12 +37,6 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,git,github,python,nodejs,mongodb,linux,docker,aws,vercel" />
 </p>
 
----
-
-## 🔥 **Top Projects**
-💡 [Portfolio Website] (https://github.com/muskanirfan12/Portfolio)
-🌍 [Resume Builder] (https://github.com/muskanirfan12/Milestone_3-Resume--builder-Main)
-🔥 [Digital Services Website] (https://github.com/muskanirfan12/Digital-Services-Website)
 
 ---
 
