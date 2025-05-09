@@ -39,13 +39,6 @@
 
 ---
 
-## ⚡ **GitHub Stats**
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohsinraza23&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
----
-
 ## 🎭 **Fun Fact**
 _"Great developers solve problems they were unqualified for until they actually did it!"_  
 
