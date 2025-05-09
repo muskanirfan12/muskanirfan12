@@ -40,9 +40,9 @@
 ---
 
 ## 🔥 **Top Projects**
-💡 [Portfolio Website](https://github.com/muskanirfan12/Portfolio)  
+💡 [Portfolio Website](https://github.com/muskanirfan12/Portfolio)
+🌍 [Resume Builder](https://github.com/muskanirfan12/Milestone_3-Resume--builder-Main)
 🔥 [Digital Services Website](https://github.com/muskanirfan12/Digital-Services-Website)
-🌍 [Resume Builder](https://github.com/muskanirfan12/Milestone_3-Resume--builder-Main)  
 
 
 ---
