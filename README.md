@@ -7,16 +7,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=ff4500&center=true&vCenter=true&width=600&lines=🚀+Full+Stack+Developer;🤖+Web+3.0+Enthusiast;🎯+Passionate+Learner" />
 </p>
-
----
-
-<!-- 🔥 Profile Image with a Cyberpunk Glow Effect -->
-<p align="center">
-  <img src="its me.jpg" 
-  width="240" height="240" 
-  style="border-radius:50%; border:4px solid #ff4500; box-shadow: 0px 0px 20px #ff4500;" />
-</p>
-
 ---
 
 ## 🎭 **Who Am I?**
