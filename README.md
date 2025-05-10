@@ -5,7 +5,7 @@
 <h3 align="center" style="color:#f7b42c;"> 💪Frontend Developer | 💪Web 3.0 Enthusiast | 💪Programmer </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=ff4500&center=true&vCenter=true&width=600&lines=🚀+Full+Stack+Developer;🤖+Web+3.0+Enthusiast;🎯+Passionate+Learner" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=ff4500&center=true&vCenter=true&width=600&lines=🚀+Front+end+Developer;🤖+Web+3.0+Enthusiast;🎯+Passionate+Learner" />
 </p>
 
 ---
